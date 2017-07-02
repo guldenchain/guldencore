@@ -1,5 +1,5 @@
 'use strict';
 
-var litecore = require('litecore-lib');
+var guldencore = require('guldencore-lib');
 
-module.exports = litecore;
+module.exports = guldencore;
