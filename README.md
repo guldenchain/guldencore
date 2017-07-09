@@ -4,7 +4,7 @@ Guldencore
 [![NPM Package](https://img.shields.io/npm/v/guldencore.svg?style=flat-square)](https://www.npmjs.org/package/guldencore)
 [![Build Status](https://img.shields.io/travis/guldenchain/guldencore.svg?branch=master&style=flat-square)](https://travis-ci.org/guldenchain/guldencore)
 
-Infrastructure to build Bitcoin and blockchain-based applications for the next generation of financial technology.
+Infrastructure to build Gulden and blockchain-based applications for the next generation of financial technology.
 
 **Note:** If you're looking for the Guldencore Library please see: https://github.com/guldenchain/guldencore-lib
 

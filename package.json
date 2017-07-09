@@ -14,8 +14,12 @@
   },
   "contributors": [
     {
+      "name": "Gregory de Graaf aka Strataghyt",
+      "email": "guldenchain@gmail.com"
+    },
+    {
       "name": "Charlie Lee",
-      "email": "coblee@gulden.org"
+      "email": "coblee@litecoin.org"
     },
     {
       "name": "Daniel Cousens",
@@ -92,8 +96,8 @@
   "dependencies": {
     "guldencore-lib": "^0.13.22",
     "guldencore-node": "^3.1.11",
-    "insight-gulden-api": "^0.4.4",
-    "insight-gulden-ui": "^0.4.2"
+    "insight-gulden-api": "^0.4.5",
+    "insight-gulden-ui": "^0.4.3"
   },
   "license": "MIT",
   "devDependencies": {

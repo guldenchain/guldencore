@@ -1,5 +1,5 @@
 [Unit]
-Description=Bitcoin Core for Bitcore
+Description=Gulden Core for Bitcore
 Requires=network.target
 
 [Service]
